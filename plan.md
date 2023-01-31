@@ -1,0 +1,19 @@
+PLAN FOR PROJECT:
+
+NAME OF GAME:
+"LIFESCAPE"
+
+PROGRAMMING LANGUAGES USED:
+-PYTHON
+-MySQL
+
+MODULES:
+-Tkinter/PysimpleGui
+-PyGame
+-Matplotlib
+-nltk
+-Numpy
+
+DATABASE SERVERS:
+-SQLite
+-PostgreSQL
