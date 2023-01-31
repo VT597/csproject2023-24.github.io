@@ -13,6 +13,8 @@ MODULES:
 -Matplotlib
 -nltk
 -Numpy
+-pickle
+-Other common modules
 
 DATABASE SERVERS:
 -SQLite
